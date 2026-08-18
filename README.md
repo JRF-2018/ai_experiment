@@ -1,6 +1,6 @@
 # 雑多な AI 小実験集
 
-<!-- Time-stamp: "2026-07-31T10:15:46Z" -->
+<!-- Time-stamp: "2026-08-18T01:02:41Z" -->
 
 このレポジトリは、2026年以降に私が AI さん達に補助してもらいながら行った AI 小実験の IPYNB を収録しています。
 
@@ -24,6 +24,8 @@ https://jrf-2018.github.io/ai_experiment/
   * 《[AttentionPatternDiffusion 構想の PoC その1](AttentionPatternDiffusion_PoC.ipynb)》 (2026年7月16日ごろ)。
 
   * 《[AttentionPatternDiffusion 構想の PoC その2](AttentionPatternDiffusion_PoC_2.ipynb)》 (2026年7月31日ごろ)。
+
+  * 《[AttentionPatternDiffusion 構想の PoC その3](AttentionPatternDiffusion_PoC_3.ipynb)》 (2026年8月18日ごろ)。
 
 
 ## Author
